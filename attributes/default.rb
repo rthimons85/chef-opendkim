@@ -1,0 +1,6 @@
+default['opendkim']['domain'] = "example.com"
+default['opendkim']['keyfile'] = "/etc/mail/dkim.key"
+default['opendkim']['selector'] = "2007"
+default['opendkim']['socket'] = "inet:8891@localhost"
+default['opendkim']['internal_hosts'] = "127.0.0.1"
+default['opendkim']['subdomains'] = "true"
