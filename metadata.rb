@@ -1,4 +1,4 @@
-name		 "chef-byobu"
+name		 "chef-opendkim"
 maintainer       "Jeremiah Snapp"
 maintainer_email "jeremiah.snapp@gmail.com"
 license          "Apache 2.0"
