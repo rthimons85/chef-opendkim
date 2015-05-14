@@ -1,3 +1,4 @@
+name		 "chef-byobu"
 maintainer       "Jeremiah Snapp"
 maintainer_email "jeremiah.snapp@gmail.com"
 license          "Apache 2.0"
